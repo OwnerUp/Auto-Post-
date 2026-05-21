@@ -46,6 +46,7 @@ SHIVA_CHANNEL = -1003933024704
 RAHUL_CHANNEL = -1003971738837
 ANGAD_CHANNEL = -1003815705852
 KING_CHANNEL = -1003765912375
+
 # =========================================
 # ALL CHANNELS
 # =========================================
@@ -75,7 +76,7 @@ CHANNELS = [
 # =========================================
 
 client = TelegramClient(
-    "multi_channel_premium_bot",
+    "royalswin_advanced",
     API_ID,
     API_HASH
 )
