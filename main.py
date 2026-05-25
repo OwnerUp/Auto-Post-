@@ -671,7 +671,7 @@ CALL ➡️TOSS KING(Aditya)✅"""
 
         elif ctype == "REDDY":
 
-            caption = f"""✈️ Womens Premier League 2026 ✈️
+            caption = f"""✈️{CURRENT_LEAGUE}✈️
 
 TOSS👉 {team}
 TOSS👉 {team}
